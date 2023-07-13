@@ -1,2 +1,2 @@
 ﻿# Car-Parking-System
-It is a car parking system made using Verilog and simulation done via Modelsim
+This repository contains the verilog HDL code to implement a password based car-parking system operator. The following picture is the state machine logic implemented in the code. 
